@@ -3,6 +3,9 @@
 A fun and interactive programming quiz game with a colorful UI, timer for each question, and instant score feedback.
 
 ---
+# live project :
+https://riyanesarkar07.github.io/SCT_WD_3/
+
 
 ## 📌 Features
 - 5 Programming-related questions
